@@ -15,6 +15,10 @@ Requirements:
 Install libraries:
 
 ```bash
+git clone git@github.com:deepak-kandel/keras_REST_api.git
+cd keras_REST_api
+virtualenv --no-site-packages venv
+source venv/Scripts/activate
 pip install -r requirements.txt
 ```
 
