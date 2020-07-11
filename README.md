@@ -1,9 +1,3 @@
-# Zero to Production
-
-> It is not recommended to deploy your production models as shown here.
- This is just an end-to-end example to get started quickly.
-
-
 This guide shows you how to:
 
 - build a Deep Neural Network that predicts Airbnb prices in NYC (using scikit-learn and Keras)
