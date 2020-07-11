@@ -1,4 +1,4 @@
-This guide shows you to:
+# About
 
 - build a REST API that predicts prices based on the model (using Flask and gunicorn)
 
