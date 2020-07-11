@@ -12,7 +12,7 @@ Requirements:
 
 
 
-Install libraries:
+Clone repo and Install libraries:
 
 ```bash
 git clone git@github.com:deepak-kandel/keras_REST_api.git
