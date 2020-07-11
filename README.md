@@ -3,6 +3,9 @@ This guide shows you to:
 - build a Deep Neural Network that predicts Airbnb prices in NYC (using scikit-learn and Keras)
 - build a REST API that predicts prices based on the model (using Flask and gunicorn)
 
+# For more details
+- https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html
+
 
 # Quick start
 
